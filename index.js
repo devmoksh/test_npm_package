@@ -1,6 +1,5 @@
 function hello() {
-    console.log("Hello! You are using V1.0.3")
+    console.log("Hello! You are using V1.0.5")
 }
 
-module.exports = hello;
 exports.default = hello;
